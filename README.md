@@ -1,3 +1,4 @@
+#开源:JS写的SVM——svmjs
 # svmjs
 Andrej Karpathy
 July 2012
